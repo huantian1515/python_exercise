@@ -1,0 +1,8 @@
+venv/
+data.json
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+.merkle-snapshot.json
+requirements.txt
